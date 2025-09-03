@@ -1,0 +1,7 @@
+def is_palindrome(n):
+    if str(n) == str(n)[::-1]:
+        return True
+    return False
+
+n = input()
+print(is_palindrome(n))
