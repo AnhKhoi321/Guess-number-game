@@ -1,4 +1,4 @@
-
+# Mini calculator
 def calculator():
     math = input("Hãy nhập một biểu thức toán học: ")  
     try:

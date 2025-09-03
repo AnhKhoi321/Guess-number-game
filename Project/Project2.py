@@ -1,3 +1,4 @@
+# Event anouncement
 events = []
 def add_event(event_name, time="not decide"):
     event = {
